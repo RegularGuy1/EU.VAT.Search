@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRCL_EU_VAT", "BRCL_EU_VAT\BRCL_EU_VAT.csproj", "{0A6456D3-0462-4789-AB6F-D8DB9E08FBBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRCL_EU_VAT", "BRCL_EU_VAT\BRCL_EU_VAT.csproj", "{0A6456D3-0462-4789-AB6F-D8DB9E08FBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRCL_EU_VAT_Tests", "BRCL_EU_VAT_Tests\BRCL_EU_VAT_Tests.csproj", "{AF30C990-FC45-429D-9E84-B37B57188543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A6456D3-0462-4789-AB6F-D8DB9E08FBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6456D3-0462-4789-AB6F-D8DB9E08FBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6456D3-0462-4789-AB6F-D8DB9E08FBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF30C990-FC45-429D-9E84-B37B57188543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF30C990-FC45-429D-9E84-B37B57188543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF30C990-FC45-429D-9E84-B37B57188543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF30C990-FC45-429D-9E84-B37B57188543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
