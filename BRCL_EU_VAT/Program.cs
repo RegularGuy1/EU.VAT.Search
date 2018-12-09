@@ -22,7 +22,7 @@ namespace BRCL_EU_VAT
             //TODO: read input from screen ?
             DateTime effectiveDate = DateTime.Now;
             string rateType = "standard";
-            int resultCount = 5;
+            int resultCount = 3;
             //TODO: get file loc from appsettings.json ?
             string fileName = "http://jsonvat.com/";
 
